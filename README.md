@@ -1,12 +1,12 @@
 # My Halo 5 Stats AWS Lambda Function
 
-This Python 3.8 function serves data from the Halo 5 Game Data API to a site I created ([My Halo 5 Stats](https://hateph34r.github.io/my-halo-5-stats/)) using AWS Lambda and AWS API gateway. This function combines 4 API queries into one JSON formatted result that is parsed by the front end. 
+This Python 3.8 function serves data from the Halo 5 Game Data API to a site I created ([My Halo 5 Stats](https://jgardner117.github.io/my-halo-5-stats/)) using AWS Lambda and AWS API gateway. This function combines 4 API queries into one JSON formatted result that is parsed by the front end. 
 
-Check it out here! https://hateph34r.github.io/my-halo-5-stats/
+Check it out here! https://jgardner117.github.io/my-halo-5-stats/
 
 
 ## Authors
-* **Jesse Gardner** - *Creator* - [Github](https://github.com/HatePH34R)
+* **Jesse Gardner** - *Creator* - [Github](https://github.com/jgardner117)
 
 ## Built with:
 * [AWS Lambda](https://aws.amazon.com/lambda/)
